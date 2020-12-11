@@ -1,1 +1,2 @@
 This is file f1.txt.
+Adding line 2 to this file.
